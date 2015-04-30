@@ -1,0 +1,6 @@
+node_modules
+docs
+tools
+coverage
+bower_components
+test

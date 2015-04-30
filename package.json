@@ -1,0 +1,31 @@
+{
+  "name": "vDOM",
+  "version": "1.0.0",
+  "description": "this virtual DOM engine. Used to Boris project",
+  "main": "index.js",
+  "scripts": {
+    "test": "testem ci",
+    "jshint": "./node_modules/.bin/jshint .",
+    "style": "./node_modules/jscs/bin/jscs ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/egor-a-trubnikov-panov/vDOM"
+  },
+  "keywords": [
+    "virtual",
+    "DOM"
+  ],
+  "author": "Egor Trubnikov-Panov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/egor-a-trubnikov-panov/vDOM/issues"
+  },
+  "homepage": "https://github.com/egor-a-trubnikov-panov/vDOM",
+  "devDependencies": {
+    "btr": "^1.0.0",
+    "jscs": "1.11.x",
+    "jshint": "2.x",
+    "testem": "^0.8.3"
+  }
+}
