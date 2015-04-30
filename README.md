@@ -1,10 +1,10 @@
 # vDOM
 
-Виртуальный DOM для проекта Boris 
+Виртуальный DOM для проекта [Boris](https://github.com/egor-a-trubnikov-panov/Boris) 
 
 ## Использование
 
-Используется совместно с btr
+Используется совместно с [btr](https://github.com/egor-a-trubnikov-panov/btr)
 
 ```js
 
