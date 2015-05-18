@@ -15,7 +15,6 @@
   ],
   "license": "MIT",
   "homepage": "https://github.com/egor-a-trubnikov-panov/vDOM",
-  "private": true,
   "ignore": [
     "**/.*",
     "node_modules",
