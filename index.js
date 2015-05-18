@@ -1,4 +1,4 @@
-var vDOM = function ($, fastdom) {
+var vDOM = function ($, fastdom, btr) {
   /**
    * возвращает все атрибуты, имя блока, элемент, представление и состояния.
    * @param jqueryNode
