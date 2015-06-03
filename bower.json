@@ -22,8 +22,9 @@
     "test",
     "tests"
   ],
-  "devDependencies": {
-    "jquery": "~2.1.4",
-    "fastdom": "~0.8.6"
+  "dependencies": {
+    "btr": "^1.0.0",
+    "fastdom": "^0.8.6",
+    "jquery": "^2.1.4"
   }
 }

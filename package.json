@@ -23,9 +23,13 @@
   },
   "homepage": "https://github.com/egor-a-trubnikov-panov/vDOM",
   "devDependencies": {
-    "btr": "^1.0.0",
     "jscs": "1.11.x",
     "jshint": "2.x",
     "testem": "^0.8.3"
+  },
+  "dependencies": {
+    "btr": "^1.0.0",
+    "fastdom": "^0.8.6",
+    "jquery": "^2.1.4"
   }
 }
