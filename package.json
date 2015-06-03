@@ -1,5 +1,5 @@
 {
-  "name": "vDOM",
+  "name": "btr-vDOM",
   "version": "1.0.0",
   "description": "this virtual DOM engine. Used to Boris project",
   "main": "index.js",
