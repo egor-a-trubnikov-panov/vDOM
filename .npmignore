@@ -1,0 +1,14 @@
+test
+.travis.yml
+.jshintrc
+.editorconfig
+node_modules
+.idea
+coverage
+wallaby.js
+bower_components
+vDOM.iml
+.jscsrc
+npm-debug.log
+testem.yml
+bower.json
